@@ -35,6 +35,6 @@ Budget Analysis: High allocation toward replacement and servicing reflects opera
 Pre-Sale Impact: With 13K pre-sales, early engagement plays a crucial role in revenue.
 
 # 🛠️ Tools Used
-Power BI Desktop
-Data Modeling (Relationships, DAX)
-Visualizations (Bar Charts, Donut Chart, KPI Cards, Slicers)
+- Power BI Desktop
+= Data Modeling (Relationships, DAX)
+- Visualizations (Bar Charts, Donut Chart, KPI Cards, Slicers)
