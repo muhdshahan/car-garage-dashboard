@@ -29,12 +29,12 @@ This Power BI dashboard consists of three main pages:
 Enables customized views for specific business queries
 
 # 💡 Key Insights
-Seasonal Trends: Sales peaks in August and October suggest promotional opportunities.
-Growth Focus: A strong 58.3% growth rate points to market expansion potential.
-Budget Analysis: High allocation toward replacement and servicing reflects operational priorities.
-Pre-Sale Impact: With 13K pre-sales, early engagement plays a crucial role in revenue.
+- Seasonal Trends: Sales peaks in August and October suggest promotional opportunities.
+- Growth Focus: A strong 58.3% growth rate points to market expansion potential.
+- Budget Analysis: High allocation toward replacement and servicing reflects operational priorities.
+- Pre-Sale Impact: With 13K pre-sales, early engagement plays a crucial role in revenue.
 
 # 🛠️ Tools Used
 - Power BI Desktop
-= Data Modeling (Relationships, DAX)
+- Data Modeling (Relationships, DAX)
 - Visualizations (Bar Charts, Donut Chart, KPI Cards, Slicers)
