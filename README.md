@@ -34,6 +34,14 @@ Enables customized views for specific business queries
 - Budget Analysis: High allocation toward replacement and servicing reflects operational priorities.
 - Pre-Sale Impact: With 13K pre-sales, early engagement plays a crucial role in revenue.
 
+## Overview
+
+![one](https://github.com/muhdshahan/car-garage-dashboard/blob/main/Git/model%201(1).png)
+
+![two](https://github.com/muhdshahan/car-garage-dashboard/blob/main/Git/model%202.png)
+
+![three](https://github.com/muhdshahan/car-garage-dashboard/blob/main/Git/model%203.png)
+
 # 🛠️ Tools Used
 - Power BI Desktop
 - Data Modeling (Relationships, DAX)
